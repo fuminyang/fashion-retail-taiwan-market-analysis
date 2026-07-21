@@ -1,0 +1,11 @@
+Metric,Value
+Raw records,3400
+Raw columns,6
+Missing purchase amount,650
+Missing review rating,324
+Records after missing value removal,2487
+Outliers removed using IQR,34
+Clean records used,2453
+Unique items,50
+Date range start,2022-10-02
+Date range end,2023-10-01
