@@ -44,11 +44,33 @@ fashion-retail-taiwan-market-analysis
 
 ## Key Visualizations
 
-- Monthly Purchase Trend
-- Purchase Frequency by Product Category
-- Payment Method Distribution
-- Top 10 Items by Total Purchase Amount
-- Taiwan Market Potential Score by Category
+### Figure 1. Monthly Purchase Trend
+
+![](images/monthly_purchase_trend.png)
+
+---
+
+### Figure 2. Purchase Frequency by Product Category
+
+![](images/purchase_frequency_by_category.png)
+
+---
+
+### Figure 3. Payment Method Distribution
+
+![](images/payment_method_distribution.png)
+
+---
+
+### Figure 4. Top 10 Items by Total Purchase Amount
+
+![](images/top10_items_by_total_purchase_amount.png)
+
+---
+
+### Figure 5. Taiwan Market Potential Score
+
+![](images/taiwan_market_potential_score.png)
 
 ---
 
